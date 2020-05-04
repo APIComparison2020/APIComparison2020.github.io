@@ -67,9 +67,9 @@ In the sheet "func_text_relation", "func_name_relation", "character_text_relatio
 ## Screen Shot
 
 ### APIComp Tool screen shot
-![image](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/img/tool_view.png)
+![image](https://raw.githubusercontent.com/APIComparison2020/APIComparison2020.github.io/master/img/tool_view.png)
 
 
 ### Baseline screen shot
-![image](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/img/base_line_view.png)
+![image](https://raw.githubusercontent.com/APIComparison2020/APIComparison2020.github.io/master/img/base_line_view.png)
 
