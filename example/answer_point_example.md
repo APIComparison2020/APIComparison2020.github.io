@@ -7,4 +7,4 @@
 
 4. From the Stack Overflow answer [Difference between printStackTrace() and toString()](https://stackoverflow.com/questions/10120709/difference-between-printstacktrace-and-tostring), We extract answer point: "The toString() simply returns a string." from the sentence "Also note that simply calling toString() simply returns a string, and won't print anything out."
 
-For all results, you can view the [file](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/question_select/answer_point.xlsx)
+For all answer point results, you can view the [file](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/question_select/answer_point.xlsx)
