@@ -1,4 +1,4 @@
-# example of API selection task
+# examples of API selection task
 
 1. From the Stack Overflow question [Instant vs LocalDateTime - When to prefer one over the other](https://stackoverflow.com/questions/35251000/instant-vs-localdatetime-when-to-prefer-one-over-the-other), the scenario description "I need to save and present datetime of events that happened in my server in UTC. I have the option of using Instant.now() or LocalDateTime.now()" is proposed by the questioner of the post. The comparison APIs are java.time.Instant.now() and java.time.LocalDateTime.now(java.time.ZoneId).
 
