@@ -65,9 +65,9 @@ In the sheet "func_text_relation", "func_name_relation", "character_text_relatio
 
 ## Example
 
-- [example of answer point](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/example/answer_point_example.md)
+- [examples of answer point](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/example/answer_point_example.md)
 
-- [example of API selection task](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/example/task_select_example.md)
+- [examples of API selection task](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/example/task_select_example.md)
 
 ## Screen Shot
 
