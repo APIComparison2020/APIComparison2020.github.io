@@ -7,6 +7,5 @@
 
 3. From the Stack Overflow question [Differences between HashMap and Hashtable?](https://stackoverflow.com/questions/40471/differences-between-hashmap-and-hashtable), the scenario description "Which is more efficient for non-threaded applications?" is proposed by the questioner of the post. The comparison APIs are java.util.HashMap and java.util.Hashtable.
 
-4. From the Stack Overflow question [JDBC Class.forName vs DriverManager.registerDriver](https://stackoverflow.com/questions/5484227/jdbc-class-forname-vs-drivermanager-registerdriver), based on the problem description, we define the scenario description "if I want to load and register a JDBC driver, which API should I use?". The comparison APIs are java.lang.Class.forName(java.lang.String) and java.sql.DriverManager.registerDriver(java.sql.Driver).
 
 For all API selection task results, you can view the [file](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/RQ6/result/GA/)
