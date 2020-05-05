@@ -63,7 +63,7 @@ In the sheet "func_text_relation", "func_name_relation", "character_text_relatio
 
 
 
-## example
+## Example
 
 - [example of answer point](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/example/answer_point_example.md)
 
